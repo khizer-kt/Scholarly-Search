@@ -1,0 +1,584 @@
+Delay Composition Algebra: A Reduction-Based Schedulability Algebra for Distributed Real-Time Systems
+Generating Hierarchical State Machines from Use Case Charts
+Analysis of strategic knowledge in back of the envelope reasoning
+Document Image Segmentation as a Spectral Partitioning Problem
+Meetings through the cloud: Privacy-preserving scheduling on mobile devices
+Image quality and readability
+Morphological image compositing
+Fast parametric elastic image registration
+Tag Completion for Image Retrieval
+Implementing image applications on FPGAs
+Image quality improvement using edge and distribution information of degraded image
+Image-based stereoscopic stylization
+Cross-Codebook Image Classification
+Single image tree modeling
+A concept-based image retrieval system
+Exploring the use of deep learning for feature location
+Human body part estimation from depth images via spatially-constrained deep learning
+Interactive Image Segmentation Using Machine Learning Techniques
+Learning based interactive image segmentation
+Coding theoretic approach to image segmentation
+Still Image Segmentation Tools for Object-based Multimedia Applications
+Discrete-Continuous Gradient Orientation Estimation for Faster Image Segmentation
+Image segmentation algorithm by piecewise smooth approximation
+An adaptive clustering algorithm for image segmentation
+A new approach of 3D watermarking based on image segmentation
+Level set evolution with locally linear classification for image segmentation
+Document Image Segmentation as a Spectral Partitioning Problem
+Interactive Image Segmentation Using Machine Learning Techniques
+Learning based interactive image segmentation
+Coding theoretic approach to image segmentation
+Still Image Segmentation Tools for Object-based Multimedia Applications
+Discrete-Continuous Gradient Orientation Estimation for Faster Image Segmentation
+Image segmentation algorithm by piecewise smooth approximation
+An adaptive clustering algorithm for image segmentation
+A new approach of 3D watermarking based on image segmentation
+Level set evolution with locally linear classification for image segmentation
+Document Image Segmentation as a Spectral Partitioning Problem
+Adaptive Audio-Based Context Recognition
+A Novel Approach for Audio Watermarking
+Object category detection using audio-visual cues
+Audio Watermarking Using QIM on Wavelet Packet Coefficients
+Events Detection for an Audio-Based Surveillance System
+Navigating by audio-based probing and fuzzy routing
+Quantized Sparse Approximation with Iterative Thresholding for Audio Coding
+The Audio-Video Australian-English Speech Data Corpus AVOZES
+Speaker localisation using audio-visual synchrony: an empirical study
+Audio similarity matrices enhancement in an image processing framework
+Fragment Completion in Humans and Machines
+Measurement of Functional Auditory Intelligence in Humans
+Attention-driven eye gaze and blinking for virtual humans
+A neurally controlled robot competes and cooperates with humans in Segway soccer
+Pacemaker interference and low-frequency electric induction in humans by external fields and electrodes
+A note on the complexity of scheduling coupled tasks on a single processor
+An anisotropic evolution formulation applied in 2-D unwrapping of discontinuous phase surfaces
+Dealing with Hardware in Embedded Software: A General Framework Based on the Devil Language
+Limits of homology detection by pairwise sequence comparison
+Stability and performance of intersecting aircraft flows under decentralized conflict avoidance rules
+Least squares detection of multiple changes in fractional ARIMA processes
+A neural network-based image processing system for detection of vandal acts in unmanned railway environments
+Using assignment examples to infer weights for ELECTRE TRI method: Some experimental results
+OFDM code division multiplexing with unequal error protection and flexible data rate adaptation
+Improvement of response properties of MR-fluid actuator by torque feedback control
+Interactive Image Segmentation Using Machine Learning Techniques
+Learning based interactive image segmentation
+Coding theoretic approach to image segmentation
+Still Image Segmentation Tools for Object-based Multimedia Applications
+Discrete-Continuous Gradient Orientation Estimation for Faster Image Segmentation
+Image segmentation algorithm by piecewise smooth approximation
+An adaptive clustering algorithm for image segmentation
+A new approach of 3D watermarking based on image segmentation
+Level set evolution with locally linear classification for image segmentation
+Document Image Segmentation as a Spectral Partitioning Problem
+Interactive Image Segmentation Using Machine Learning Techniques
+Learning based interactive image segmentation
+Coding theoretic approach to image segmentation
+Still Image Segmentation Tools for Object-based Multimedia Applications
+Discrete-Continuous Gradient Orientation Estimation for Faster Image Segmentation
+Image segmentation algorithm by piecewise smooth approximation
+An adaptive clustering algorithm for image segmentation
+A new approach of 3D watermarking based on image segmentation
+Level set evolution with locally linear classification for image segmentation
+Document Image Segmentation as a Spectral Partitioning Problem
+Interactive Image Segmentation Using Machine Learning Techniques
+Learning based interactive image segmentation
+Coding theoretic approach to image segmentation
+Still Image Segmentation Tools for Object-based Multimedia Applications
+Discrete-Continuous Gradient Orientation Estimation for Faster Image Segmentation
+Image segmentation algorithm by piecewise smooth approximation
+An adaptive clustering algorithm for image segmentation
+A new approach of 3D watermarking based on image segmentation
+Level set evolution with locally linear classification for image segmentation
+Document Image Segmentation as a Spectral Partitioning Problem
+Interactive Image Segmentation Using Machine Learning Techniques
+Learning based interactive image segmentation
+Coding theoretic approach to image segmentation
+Still Image Segmentation Tools for Object-based Multimedia Applications
+Discrete-Continuous Gradient Orientation Estimation for Faster Image Segmentation
+Image segmentation algorithm by piecewise smooth approximation
+An adaptive clustering algorithm for image segmentation
+A new approach of 3D watermarking based on image segmentation
+Level set evolution with locally linear classification for image segmentation
+Document Image Segmentation as a Spectral Partitioning Problem
+Interactive Image Segmentation Using Machine Learning Techniques
+Learning based interactive image segmentation
+Coding theoretic approach to image segmentation
+Still Image Segmentation Tools for Object-based Multimedia Applications
+Discrete-Continuous Gradient Orientation Estimation for Faster Image Segmentation
+Image segmentation algorithm by piecewise smooth approximation
+An adaptive clustering algorithm for image segmentation
+A new approach of 3D watermarking based on image segmentation
+Level set evolution with locally linear classification for image segmentation
+Document Image Segmentation as a Spectral Partitioning Problem
+Interactive Image Segmentation Using Machine Learning Techniques
+Learning based interactive image segmentation
+Coding theoretic approach to image segmentation
+Still Image Segmentation Tools for Object-based Multimedia Applications
+Discrete-Continuous Gradient Orientation Estimation for Faster Image Segmentation
+Image segmentation algorithm by piecewise smooth approximation
+An adaptive clustering algorithm for image segmentation
+A new approach of 3D watermarking based on image segmentation
+Level set evolution with locally linear classification for image segmentation
+Document Image Segmentation as a Spectral Partitioning Problem
+Interactive Image Segmentation Using Machine Learning Techniques
+Learning based interactive image segmentation
+Coding theoretic approach to image segmentation
+Still Image Segmentation Tools for Object-based Multimedia Applications
+Discrete-Continuous Gradient Orientation Estimation for Faster Image Segmentation
+Image segmentation algorithm by piecewise smooth approximation
+An adaptive clustering algorithm for image segmentation
+A new approach of 3D watermarking based on image segmentation
+Level set evolution with locally linear classification for image segmentation
+Document Image Segmentation as a Spectral Partitioning Problem
+Interactive Image Segmentation Using Machine Learning Techniques
+Learning based interactive image segmentation
+Coding theoretic approach to image segmentation
+Still Image Segmentation Tools for Object-based Multimedia Applications
+Discrete-Continuous Gradient Orientation Estimation for Faster Image Segmentation
+Image segmentation algorithm by piecewise smooth approximation
+An adaptive clustering algorithm for image segmentation
+A new approach of 3D watermarking based on image segmentation
+Level set evolution with locally linear classification for image segmentation
+Document Image Segmentation as a Spectral Partitioning Problem
+Interactive Image Segmentation Using Machine Learning Techniques
+Learning based interactive image segmentation
+Coding theoretic approach to image segmentation
+Still Image Segmentation Tools for Object-based Multimedia Applications
+Discrete-Continuous Gradient Orientation Estimation for Faster Image Segmentation
+Image segmentation algorithm by piecewise smooth approximation
+An adaptive clustering algorithm for image segmentation
+A new approach of 3D watermarking based on image segmentation
+Level set evolution with locally linear classification for image segmentation
+Document Image Segmentation as a Spectral Partitioning Problem
+Interactive Image Segmentation Using Machine Learning Techniques
+Learning based interactive image segmentation
+Coding theoretic approach to image segmentation
+Still Image Segmentation Tools for Object-based Multimedia Applications
+Discrete-Continuous Gradient Orientation Estimation for Faster Image Segmentation
+Image segmentation algorithm by piecewise smooth approximation
+An adaptive clustering algorithm for image segmentation
+A new approach of 3D watermarking based on image segmentation
+Level set evolution with locally linear classification for image segmentation
+Document Image Segmentation as a Spectral Partitioning Problem
+Interactive Image Segmentation Using Machine Learning Techniques
+Learning based interactive image segmentation
+Coding theoretic approach to image segmentation
+Still Image Segmentation Tools for Object-based Multimedia Applications
+Discrete-Continuous Gradient Orientation Estimation for Faster Image Segmentation
+Image segmentation algorithm by piecewise smooth approximation
+An adaptive clustering algorithm for image segmentation
+A new approach of 3D watermarking based on image segmentation
+Level set evolution with locally linear classification for image segmentation
+Document Image Segmentation as a Spectral Partitioning Problem
+Interactive Image Segmentation Using Machine Learning Techniques
+Learning based interactive image segmentation
+Coding theoretic approach to image segmentation
+Still Image Segmentation Tools for Object-based Multimedia Applications
+Discrete-Continuous Gradient Orientation Estimation for Faster Image Segmentation
+Image segmentation algorithm by piecewise smooth approximation
+An adaptive clustering algorithm for image segmentation
+A new approach of 3D watermarking based on image segmentation
+Level set evolution with locally linear classification for image segmentation
+Document Image Segmentation as a Spectral Partitioning Problem
+Interactive Image Segmentation Using Machine Learning Techniques
+Learning based interactive image segmentation
+Coding theoretic approach to image segmentation
+Still Image Segmentation Tools for Object-based Multimedia Applications
+Discrete-Continuous Gradient Orientation Estimation for Faster Image Segmentation
+Image segmentation algorithm by piecewise smooth approximation
+An adaptive clustering algorithm for image segmentation
+A new approach of 3D watermarking based on image segmentation
+Level set evolution with locally linear classification for image segmentation
+Document Image Segmentation as a Spectral Partitioning Problem
+Interactive Image Segmentation Using Machine Learning Techniques
+Learning based interactive image segmentation
+Coding theoretic approach to image segmentation
+Still Image Segmentation Tools for Object-based Multimedia Applications
+Discrete-Continuous Gradient Orientation Estimation for Faster Image Segmentation
+Image segmentation algorithm by piecewise smooth approximation
+An adaptive clustering algorithm for image segmentation
+A new approach of 3D watermarking based on image segmentation
+Level set evolution with locally linear classification for image segmentation
+Document Image Segmentation as a Spectral Partitioning Problem
+Interactive Image Segmentation Using Machine Learning Techniques
+Learning based interactive image segmentation
+Coding theoretic approach to image segmentation
+Still Image Segmentation Tools for Object-based Multimedia Applications
+Discrete-Continuous Gradient Orientation Estimation for Faster Image Segmentation
+Image segmentation algorithm by piecewise smooth approximation
+An adaptive clustering algorithm for image segmentation
+A new approach of 3D watermarking based on image segmentation
+Level set evolution with locally linear classification for image segmentation
+Document Image Segmentation as a Spectral Partitioning Problem
+Interactive Image Segmentation Using Machine Learning Techniques
+Learning based interactive image segmentation
+Coding theoretic approach to image segmentation
+Still Image Segmentation Tools for Object-based Multimedia Applications
+Discrete-Continuous Gradient Orientation Estimation for Faster Image Segmentation
+Image segmentation algorithm by piecewise smooth approximation
+An adaptive clustering algorithm for image segmentation
+A new approach of 3D watermarking based on image segmentation
+Level set evolution with locally linear classification for image segmentation
+Document Image Segmentation as a Spectral Partitioning Problem
+Interactive Image Segmentation Using Machine Learning Techniques
+Learning based interactive image segmentation
+Coding theoretic approach to image segmentation
+Still Image Segmentation Tools for Object-based Multimedia Applications
+Discrete-Continuous Gradient Orientation Estimation for Faster Image Segmentation
+Image segmentation algorithm by piecewise smooth approximation
+An adaptive clustering algorithm for image segmentation
+A new approach of 3D watermarking based on image segmentation
+Level set evolution with locally linear classification for image segmentation
+Document Image Segmentation as a Spectral Partitioning Problem
+Neural Network Models to Anticipate Failures of Airport Ground Transportation Vehicle Doors
+Power-aware control speculation through selective throttling
+Pareto evolutionary neural networks
+Neural networks for control systems
+Iterative inversion of fuzzified neural networks
+Rule Extraction using Artificial Neural Networks
+LEARNING LONGER MEMORY IN RECURRENT NEURAL NETWORKS
+Evolving Neural Networks for Word Sense Disambiguation
+Object detection using pulse coupled neural networks
+CHEMICAL PROCESS IDENTIFICATION WITH MULTIPLE NEURAL NETWORKS
+Hardware implementation of stochastic spiking neural networks.
+Modeling nonlinear systems with cellular neural networks
+Pareto evolutionary neural networks
+Neural networks for control systems
+Iterative inversion of fuzzified neural networks
+Rule Extraction using Artificial Neural Networks
+LEARNING LONGER MEMORY IN RECURRENT NEURAL NETWORKS
+Evolving Neural Networks for Word Sense Disambiguation
+Object detection using pulse coupled neural networks
+CHEMICAL PROCESS IDENTIFICATION WITH MULTIPLE NEURAL NETWORKS
+Hardware implementation of stochastic spiking neural networks.
+Modeling nonlinear systems with cellular neural networks
+Pareto evolutionary neural networks
+Neural networks for control systems
+Iterative inversion of fuzzified neural networks
+Rule Extraction using Artificial Neural Networks
+LEARNING LONGER MEMORY IN RECURRENT NEURAL NETWORKS
+Evolving Neural Networks for Word Sense Disambiguation
+Object detection using pulse coupled neural networks
+CHEMICAL PROCESS IDENTIFICATION WITH MULTIPLE NEURAL NETWORKS
+Hardware implementation of stochastic spiking neural networks.
+Modeling nonlinear systems with cellular neural networks
+Ultrasound image segmentation: a survey
+Learning based interactive image segmentation
+Automatic Image Segmentation by Tree Pruning
+Coding theoretic approach to image segmentation
+Color image segmentation using level sets
+Histogram clustering for unsupervised image segmentation
+Shape Statistics for Image Segmentation with Prior
+Interactive Image Segmentation Using Machine Learning Techniques
+Applying deformable templates for cell image segmentation
+A recursive thresholding technique for image segmentation
+Ultrasound image segmentation: a survey
+Learning based interactive image segmentation
+Automatic Image Segmentation by Tree Pruning
+Coding theoretic approach to image segmentation
+Color image segmentation using level sets
+Histogram clustering for unsupervised image segmentation
+Shape Statistics for Image Segmentation with Prior
+Interactive Image Segmentation Using Machine Learning Techniques
+Applying deformable templates for cell image segmentation
+A recursive thresholding technique for image segmentation
+Ultrasound image segmentation: a survey
+Learning based interactive image segmentation
+Automatic Image Segmentation by Tree Pruning
+Coding theoretic approach to image segmentation
+Color image segmentation using level sets
+Histogram clustering for unsupervised image segmentation
+Applying deformable templates for cell image segmentation
+A recursive thresholding technique for image segmentation
+Enabling scalable spectral clustering for image segmentation
+Balls hierarchy: Image segmentation by graph spanner
+Ultrasound image segmentation: a survey
+Learning based interactive image segmentation
+Automatic Image Segmentation by Tree Pruning
+Coding theoretic approach to image segmentation
+Color image segmentation using level sets
+Histogram clustering for unsupervised image segmentation
+Applying deformable templates for cell image segmentation
+A recursive thresholding technique for image segmentation
+Enabling scalable spectral clustering for image segmentation
+Balls hierarchy: Image segmentation by graph spanner
+INEXACT KLEINMAN-NEWTON METHOD FOR RICCATI EQUATIONS
+Dynamic software updates: a VM-centric approach
+SDG model-based analysis of fault propagation in control systems
+Causal time series analysis of functional magnetic resonance imaging data
+Design and Implementation of Physical Layer Private Key Setting for Wireless Networks
+Circular Acoustic Vector-Sensor Array for Mode Beamforming
+Low complexity algorithm for robust video frame rate up-conversion (FRUC) technique
+Amino Acid Preference and Stacking Stability of Self-Assembled Cyclic D, L-alpha-Peptide Nanotube
+Accurate Distributed Range-Based Positioning Algorithm for Wireless Sensor Networks
+Prospective multi-centre Voxel Based Morphometry study employing scanner specific segmentations : procedure development using CaliBrain structural MRI data
+Ultrasound image segmentation: a survey
+Learning based interactive image segmentation
+Automatic Image Segmentation by Tree Pruning
+Coding theoretic approach to image segmentation
+Color image segmentation using level sets
+Histogram clustering for unsupervised image segmentation
+Shape Statistics for Image Segmentation with Prior
+Interactive Image Segmentation Using Machine Learning Techniques
+Applying deformable templates for cell image segmentation
+A recursive thresholding technique for image segmentation
+Ultrasound image segmentation: a survey
+Learning based interactive image segmentation
+Automatic Image Segmentation by Tree Pruning
+Coding theoretic approach to image segmentation
+Color image segmentation using level sets
+Histogram clustering for unsupervised image segmentation
+Applying deformable templates for cell image segmentation
+A recursive thresholding technique for image segmentation
+Enabling scalable spectral clustering for image segmentation
+Balls hierarchy: Image segmentation by graph spanner
+Ultrasound image segmentation: a survey
+Learning based interactive image segmentation
+Automatic Image Segmentation by Tree Pruning
+Coding theoretic approach to image segmentation
+Color image segmentation using level sets
+Histogram clustering for unsupervised image segmentation
+Applying deformable templates for cell image segmentation
+A recursive thresholding technique for image segmentation
+Enabling scalable spectral clustering for image segmentation
+Balls hierarchy: Image segmentation by graph spanner
+Delay Composition Algebra: A Reduction-Based Schedulability Algebra for Distributed Real-Time Systems
+Generating Hierarchical State Machines from Use Case Charts
+Analysis of strategic knowledge in back of the envelope reasoning
+Document Image Segmentation as a Spectral Partitioning Problem
+Document features predicting assessor disagreement
+Systolic Broadcasting in a Wrapped Butterfly Network
+A New Algorithm for Frequent Itemset Generation in Non-Binary Search Space
+Optimized software synthesis for synchronous dataflow
+NetLord: a scalable multi-tenant network architecture for virtualized datacenters
+Dusty caches for reference counting garbage collection
+INEXACT KLEINMAN-NEWTON METHOD FOR RICCATI EQUATIONS
+Dynamic software updates: a VM-centric approach
+SDG model-based analysis of fault propagation in control systems
+Causal time series analysis of functional magnetic resonance imaging data
+Design and Implementation of Physical Layer Private Key Setting for Wireless Networks
+Circular Acoustic Vector-Sensor Array for Mode Beamforming
+Low complexity algorithm for robust video frame rate up-conversion (FRUC) technique
+Amino Acid Preference and Stacking Stability of Self-Assembled Cyclic D, L-alpha-Peptide Nanotube
+Accurate Distributed Range-Based Positioning Algorithm for Wireless Sensor Networks
+Prospective multi-centre Voxel Based Morphometry study employing scanner specific segmentations : procedure development using CaliBrain structural MRI data
+Ultrasound image segmentation: a survey
+Learning based interactive image segmentation
+Automatic Image Segmentation by Tree Pruning
+Coding theoretic approach to image segmentation
+Color image segmentation using level sets
+Histogram clustering for unsupervised image segmentation
+Shape Statistics for Image Segmentation with Prior
+Interactive Image Segmentation Using Machine Learning Techniques
+Applying deformable templates for cell image segmentation
+A recursive thresholding technique for image segmentation
+Ultrasound image segmentation: a survey
+Learning based interactive image segmentation
+Automatic Image Segmentation by Tree Pruning
+Coding theoretic approach to image segmentation
+Color image segmentation using level sets
+Histogram clustering for unsupervised image segmentation
+Applying deformable templates for cell image segmentation
+A recursive thresholding technique for image segmentation
+Enabling scalable spectral clustering for image segmentation
+Balls hierarchy: Image segmentation by graph spanner
+Ultrasound image segmentation: a survey
+Learning based interactive image segmentation
+Automatic Image Segmentation by Tree Pruning
+Coding theoretic approach to image segmentation
+Color image segmentation using level sets
+Histogram clustering for unsupervised image segmentation
+Shape Statistics for Image Segmentation with Prior
+Interactive Image Segmentation Using Machine Learning Techniques
+Applying deformable templates for cell image segmentation
+A recursive thresholding technique for image segmentation
+Delay Composition Algebra: A Reduction-Based Schedulability Algebra for Distributed Real-Time Systems
+Generating Hierarchical State Machines from Use Case Charts
+Analysis of strategic knowledge in back of the envelope reasoning
+Document Image Segmentation as a Spectral Partitioning Problem
+Document features predicting assessor disagreement
+Systolic Broadcasting in a Wrapped Butterfly Network
+A New Algorithm for Frequent Itemset Generation in Non-Binary Search Space
+Optimized software synthesis for synchronous dataflow
+NetLord: a scalable multi-tenant network architecture for virtualized datacenters
+Dusty caches for reference counting garbage collection
+INEXACT KLEINMAN-NEWTON METHOD FOR RICCATI EQUATIONS
+Dynamic software updates: a VM-centric approach
+SDG model-based analysis of fault propagation in control systems
+Causal time series analysis of functional magnetic resonance imaging data
+Design and Implementation of Physical Layer Private Key Setting for Wireless Networks
+Circular Acoustic Vector-Sensor Array for Mode Beamforming
+Low complexity algorithm for robust video frame rate up-conversion (FRUC) technique
+Amino Acid Preference and Stacking Stability of Self-Assembled Cyclic D, L-alpha-Peptide Nanotube
+Accurate Distributed Range-Based Positioning Algorithm for Wireless Sensor Networks
+Prospective multi-centre Voxel Based Morphometry study employing scanner specific segmentations : procedure development using CaliBrain structural MRI data
+Ultrasound image segmentation: a survey
+Learning based interactive image segmentation
+Automatic Image Segmentation by Tree Pruning
+Coding theoretic approach to image segmentation
+Color image segmentation using level sets
+Histogram clustering for unsupervised image segmentation
+Applying deformable templates for cell image segmentation
+A recursive thresholding technique for image segmentation
+Enabling scalable spectral clustering for image segmentation
+Balls hierarchy: Image segmentation by graph spanner
+Ultrasound image segmentation: a survey
+Learning based interactive image segmentation
+Automatic Image Segmentation by Tree Pruning
+Coding theoretic approach to image segmentation
+Color image segmentation using level sets
+Histogram clustering for unsupervised image segmentation
+Shape Statistics for Image Segmentation with Prior
+Interactive Image Segmentation Using Machine Learning Techniques
+Applying deformable templates for cell image segmentation
+A recursive thresholding technique for image segmentation
+Ultrasound image segmentation: a survey
+Learning based interactive image segmentation
+Automatic Image Segmentation by Tree Pruning
+Coding theoretic approach to image segmentation
+Color image segmentation using level sets
+Histogram clustering for unsupervised image segmentation
+Shape Statistics for Image Segmentation with Prior
+Interactive Image Segmentation Using Machine Learning Techniques
+Applying deformable templates for cell image segmentation
+A recursive thresholding technique for image segmentation
+Ultrasound image segmentation: a survey
+Learning based interactive image segmentation
+Automatic Image Segmentation by Tree Pruning
+Coding theoretic approach to image segmentation
+Color image segmentation using level sets
+Histogram clustering for unsupervised image segmentation
+Shape Statistics for Image Segmentation with Prior
+Interactive Image Segmentation Using Machine Learning Techniques
+Applying deformable templates for cell image segmentation
+A recursive thresholding technique for image segmentation
+Ultrasound image segmentation: a survey
+Learning based interactive image segmentation
+Automatic Image Segmentation by Tree Pruning
+Coding theoretic approach to image segmentation
+Color image segmentation using level sets
+Histogram clustering for unsupervised image segmentation
+Shape Statistics for Image Segmentation with Prior
+Interactive Image Segmentation Using Machine Learning Techniques
+Applying deformable templates for cell image segmentation
+A recursive thresholding technique for image segmentation
+Ultrasound image segmentation: a survey
+Learning based interactive image segmentation
+Automatic Image Segmentation by Tree Pruning
+Coding theoretic approach to image segmentation
+Color image segmentation using level sets
+Histogram clustering for unsupervised image segmentation
+Shape Statistics for Image Segmentation with Prior
+Interactive Image Segmentation Using Machine Learning Techniques
+Applying deformable templates for cell image segmentation
+A recursive thresholding technique for image segmentation
+Ultrasound image segmentation: a survey
+Learning based interactive image segmentation
+Automatic Image Segmentation by Tree Pruning
+Coding theoretic approach to image segmentation
+Color image segmentation using level sets
+Histogram clustering for unsupervised image segmentation
+Shape Statistics for Image Segmentation with Prior
+Interactive Image Segmentation Using Machine Learning Techniques
+Applying deformable templates for cell image segmentation
+A recursive thresholding technique for image segmentation
+Ultrasound image segmentation: a survey
+Learning based interactive image segmentation
+Automatic Image Segmentation by Tree Pruning
+Coding theoretic approach to image segmentation
+Color image segmentation using level sets
+Histogram clustering for unsupervised image segmentation
+Shape Statistics for Image Segmentation with Prior
+Interactive Image Segmentation Using Machine Learning Techniques
+Applying deformable templates for cell image segmentation
+A recursive thresholding technique for image segmentation
+Ultrasound image segmentation: a survey
+Learning based interactive image segmentation
+Automatic Image Segmentation by Tree Pruning
+Coding theoretic approach to image segmentation
+Color image segmentation using level sets
+Histogram clustering for unsupervised image segmentation
+Shape Statistics for Image Segmentation with Prior
+Interactive Image Segmentation Using Machine Learning Techniques
+Applying deformable templates for cell image segmentation
+A recursive thresholding technique for image segmentation
+Ultrasound image segmentation: a survey
+Learning based interactive image segmentation
+Automatic Image Segmentation by Tree Pruning
+Coding theoretic approach to image segmentation
+Color image segmentation using level sets
+Histogram clustering for unsupervised image segmentation
+Shape Statistics for Image Segmentation with Prior
+Interactive Image Segmentation Using Machine Learning Techniques
+Applying deformable templates for cell image segmentation
+A recursive thresholding technique for image segmentation
+Ultrasound image segmentation: a survey
+Learning based interactive image segmentation
+Automatic Image Segmentation by Tree Pruning
+Coding theoretic approach to image segmentation
+Color image segmentation using level sets
+Histogram clustering for unsupervised image segmentation
+Shape Statistics for Image Segmentation with Prior
+Interactive Image Segmentation Using Machine Learning Techniques
+Applying deformable templates for cell image segmentation
+A recursive thresholding technique for image segmentation
+Ultrasound image segmentation: a survey
+Learning based interactive image segmentation
+Automatic Image Segmentation by Tree Pruning
+Coding theoretic approach to image segmentation
+Color image segmentation using level sets
+Histogram clustering for unsupervised image segmentation
+Applying deformable templates for cell image segmentation
+A recursive thresholding technique for image segmentation
+Enabling scalable spectral clustering for image segmentation
+Balls hierarchy: Image segmentation by graph spanner
+Pareto evolutionary neural networks
+Neural networks for control systems
+Iterative inversion of fuzzified neural networks
+Rule Extraction using Artificial Neural Networks
+LEARNING LONGER MEMORY IN RECURRENT NEURAL NETWORKS
+Evolving Neural Networks for Word Sense Disambiguation
+Object detection using pulse coupled neural networks
+CHEMICAL PROCESS IDENTIFICATION WITH MULTIPLE NEURAL NETWORKS
+Hardware implementation of stochastic spiking neural networks.
+Modeling nonlinear systems with cellular neural networks
+Ultrasound image segmentation: a survey
+Learning based interactive image segmentation
+Automatic Image Segmentation by Tree Pruning
+Coding theoretic approach to image segmentation
+Color image segmentation using level sets
+Histogram clustering for unsupervised image segmentation
+Shape Statistics for Image Segmentation with Prior
+Interactive Image Segmentation Using Machine Learning Techniques
+Applying deformable templates for cell image segmentation
+A recursive thresholding technique for image segmentation
+Ultrasound image segmentation: a survey
+Learning based interactive image segmentation
+Automatic Image Segmentation by Tree Pruning
+Coding theoretic approach to image segmentation
+Color image segmentation using level sets
+Histogram clustering for unsupervised image segmentation
+Applying deformable templates for cell image segmentation
+A recursive thresholding technique for image segmentation
+Enabling scalable spectral clustering for image segmentation
+Balls hierarchy: Image segmentation by graph spanner
+Ultrasound image segmentation: a survey
+Learning based interactive image segmentation
+Automatic Image Segmentation by Tree Pruning
+Coding theoretic approach to image segmentation
+Color image segmentation using level sets
+Histogram clustering for unsupervised image segmentation
+Applying deformable templates for cell image segmentation
+A recursive thresholding technique for image segmentation
+Enabling scalable spectral clustering for image segmentation
+Balls hierarchy: Image segmentation by graph spanner
+Ultrasound image segmentation: a survey
+Learning based interactive image segmentation
+Automatic Image Segmentation by Tree Pruning
+Coding theoretic approach to image segmentation
+Color image segmentation using level sets
+Histogram clustering for unsupervised image segmentation
+Shape Statistics for Image Segmentation with Prior
+Interactive Image Segmentation Using Machine Learning Techniques
+Applying deformable templates for cell image segmentation
+A recursive thresholding technique for image segmentation
